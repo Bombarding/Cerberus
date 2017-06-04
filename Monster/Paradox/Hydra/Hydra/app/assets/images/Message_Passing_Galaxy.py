@@ -8,7 +8,7 @@
 					 #*
 					  #*
 					   #*
-#Bear				    #*
+					    #*
 						 #*
 						 
 																'''
@@ -60,7 +60,7 @@
 import abc
 import cmath
 import array
-class __Rescue__(Person,Self,One,LM,Two, EJ):
+class __Rescue__(Person,Self,One,YOU,Two, U):
 	print("To the Rescue")
 	#Class Rescue Is Valid and Working
 	class __Witcher__(Game,Two,Allow,Remote,Access,To,User,File,dir,home,ofTwo):
