@@ -26,8 +26,7 @@ def prPurple(prt): print("\033[95m {}\033[00m" .format(prt))
 def prCyan(prt): print("\033[96m {}\033[00m" .format(prt))
 def prLightGray(prt): print("\033[97m {}\033[00m" .format(prt))
 def prBlack(prt): print("\033[98m {}\033[00m" .format(prt))
-
-prGreen("Hello world")
+prPurple("xD")
 '''
 
 import array
